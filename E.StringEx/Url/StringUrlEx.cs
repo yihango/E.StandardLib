@@ -6,10 +6,11 @@ using System.Text;
 namespace E.StringEx.Url
 {
     /// <summary>
-    /// 
+    /// URL字符串扩展
     /// </summary>
     public static class StringUrlEx
     {
+
         #region Public Method
 
         /// <summary>
