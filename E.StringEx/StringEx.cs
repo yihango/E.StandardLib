@@ -160,7 +160,7 @@ namespace E.StringEx
         /// <summary>
         /// 字节数组转16进制字符串
         /// </summary>
-        /// <param name=”bytes”>字节数组</param>
+        /// <param name="bytes">字节数组</param>
         /// <returns>转换后的结果</returns>
         public static string ByteToHexStr(this byte[] bytes)
         {
