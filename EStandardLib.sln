@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E.StringEx", "E.StringEx\E.StringEx.csproj", "{B67EBD88-D637-433C-A304-306AC379FE89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E.HttpEx", "E.HttpEx\E.HttpEx.csproj", "{9DFDC6EC-A424-4738-AB78-FE5559B9D110}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B67EBD88-D637-433C-A304-306AC379FE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B67EBD88-D637-433C-A304-306AC379FE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B67EBD88-D637-433C-A304-306AC379FE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFDC6EC-A424-4738-AB78-FE5559B9D110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFDC6EC-A424-4738-AB78-FE5559B9D110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFDC6EC-A424-4738-AB78-FE5559B9D110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFDC6EC-A424-4738-AB78-FE5559B9D110}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
